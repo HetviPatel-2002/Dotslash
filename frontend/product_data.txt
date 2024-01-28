@@ -1,0 +1,43 @@
+    var products_data = [
+        {"name": "Notepad", "composition": [
+            {"material": "Paper", "quantity": 50},
+            {"material": "Plastic", "quantity": 1}
+        ]},
+        {"name": "Toothbrush", "composition": [
+            {"material": "Plastic", "quantity": 1}
+        ]},
+        {"name": "Clothing", "composition": [
+            {"material": "Cotton", "quantity": 80}
+        ]},
+        {"name": "Paper containers with plastic lid", "composition": [
+            {"material": "Paper", "quantity": 70},
+            {"material": "Plastic", "quantity": 30}
+        ]},
+        {"name": "Wooden table", "composition": [
+            {"material": "Wood", "quantity": 100}
+        ]},
+        {"name": "Utensils", "composition": [
+            {"material": "Steel", "quantity": 90}
+        ]},
+        {"name": "Lens", "composition": [
+            {"material": "Lens", "quantity": 100}
+        ]},
+        {"name": "Coffee cups (use and throw)", "composition": [
+            {"material": "Paper", "quantity": 80},
+            {"material": "Plastic", "quantity": 20}
+        ]},
+        {"name": "Honey jar filled with honey", "composition": [
+            {"material": "Glass", "quantity": 70},
+            {"material": "Honey", "quantity": 30}
+        ]},
+        {"name": "Cotton bedsheets", "composition": [
+            {"material": "Cotton", "quantity": 100}
+        ]},
+        {"name": "Steel spoon", "composition": [
+            {"material": "Steel", "quantity": 100}
+        ]},
+        {"name": "Leather Belt", "composition": [
+            {"material": "Leather", "quantity": 80}
+        ]}
+        // Add more products data as needed
+    ];
